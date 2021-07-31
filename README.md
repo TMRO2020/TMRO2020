@@ -1,7 +1,9 @@
 ### Hi there 👋 here is Mike!
 
 I'm a mechanical design engineer from Europe, fast learner, enthusiastic and hard working.
+
 “I’m a driven person and I enjoy everything I do, and if I can make something then... I just do it”
+
 “Jack of all trades, master of none, though oftentimes better than master of one.”
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width:100%;">
